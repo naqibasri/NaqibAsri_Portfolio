@@ -11,6 +11,8 @@ I am a graduate of Mechanical Engineering from Universiti Teknologi Petronas and
 ### 📫 How to reach me:
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/naqibasri/)
 
+## DATA SCIENCE PROJECTS
+
 #### [PROJECT 1: Income Groups Prediction Model on a Data from a Survey on Income and Expenditure](https://github.com/naqibasri/Income-Groups-Prediction-Model)
 * Designed a predictive model to determine the income groups of the respondents based on their personal data.  
 * Developed comprehensive & in-depth descriptive analytics and insight on the relationship between the income groups and other categorical and numerical attributes.  
