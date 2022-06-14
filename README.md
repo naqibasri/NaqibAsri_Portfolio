@@ -9,7 +9,7 @@ I am a graduate of Mechanical Engineering from Universiti Teknologi Petronas and
 **Data Science toolkit:** SKlearn, TensorFlow, Keras, Apache Spark, MongoDB, Talend Open Studio, Tableau, Power BI.  
 
 ## 📫 How to reach me:
-[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/naqibasri/)
+    [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/naqibasri/)
 
 ## 🖥️ DATA SCIENCE PROJECTS
 
